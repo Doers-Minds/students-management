@@ -7,7 +7,7 @@ students-management is designed to help students stay organized, enhance their a
 
 🔐 Secure Login & Registration
 Students can securely register and activate their accounts using their official Student ID for validation.
-Ensures that only verified WMSU students gain access to the platform.
+Ensures that only verified students-management students gain access to the platform.
 
 📊 Academic Dashboard
 🎓 My Grades
@@ -19,7 +19,7 @@ View your class schedules in a clean, structured format to stay organized and on
 📄 Certificate of Registration (COR)
 Download and print your official registration documents directly from the app.
 
-📢 WMSU Announcements
+📢 students-management Announcements
 Stay updated with the latest university announcements, events, and important notices — all in real time.
 
 📝 Activities Submission
